@@ -1,0 +1,10 @@
+.bodyCont {
+	width: 80%;
+	margin: auto;
+	/* border: 1px solid black; */
+	display: flex;
+	flex-direction: row;
+	column-gap: 2rem;
+	margin-top: 2rem;
+	height: 80vh;
+}
